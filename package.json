@@ -1,13 +1,14 @@
 {
   "name": "gridcss-components",
   "version": "0.0.1",
-  "description": "A set of Styled-Components powered React Components which can be usedas a baseline for a variety of layout patterns",
+  "description":
+    "A set of Styled-Components powered React Components which can be usedas a baseline for a variety of layout patterns",
   "main": "index.js",
   "repository": "https://github.com/dehuszar/gridcss-components",
   "author": "Samuel Allen <dehuszar@gmail.com>",
   "license": "MIT",
   "private": false,
-  "dependencies": {
+  "peerDependencies": {
     "styled-components": "^3.3.0"
   }
 }

@@ -15,4 +15,4 @@ const GridItem = styled.div`
   place-self: ${props => props.placeSelf};
 `;
 
-export default { GridItem };
+export default GridItem;
