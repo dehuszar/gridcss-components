@@ -25,4 +25,4 @@ const GridContainer = styled.div`
   place-items: ${props => props.placeItems};
 `;
 
-export { GridContainer };
+export default GridContainer;
